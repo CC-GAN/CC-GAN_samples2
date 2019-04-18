@@ -1,6 +1,6 @@
 # CC-GAN_samples  
 
-## CC-GAN VC converted speech samples
+## Converted Speech samples using CC-GAN VC
   
 These sample audio files are for comparison between CC-GAN Voice Conveter and Cycle-GAN voice Converter.  
 Original audio files are from VCC2016 (http://vc-challenge.org/vcc2016/)  
