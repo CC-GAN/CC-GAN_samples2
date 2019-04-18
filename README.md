@@ -7,7 +7,7 @@ Original audio files are from VCC2016 (http://vc-challenge.org/vcc2016/)
 Speeches from 5 speakers are used for evaluation (SF1, SM2, TF1, TM1, TM3) 
   
 ## Original
-SF1_\*.wav, SM2_\*.wav, TM1_\*.wav, TM3_\*.wav files are original VCC2016 evaluation data.  
+SF1_\*.wav, SM2_\*.wav, TF1_\*.wav, TM1_\*.wav, TM3_\*.wav files are original VCC2016 evaluation data.  
 
   
 ## Cycle-GAN
